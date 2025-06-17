@@ -1,3 +1,6 @@
+Link of this jupiter notebook file : https://github.com/sruthysree-ux/python_assignments/blob/011f09ebfe840a622b1f357722d969f590d8fca0/Linear_regression_for_predicting_salary.ipynb
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
